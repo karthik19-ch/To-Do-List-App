@@ -26,7 +26,6 @@ A sleek, production-grade To-Do List app built with **vanilla HTML, CSS, and Jav
 
 - **HTML5** — semantic structure
 - **CSS3** — custom properties, animations, responsive grid
-- **Vanilla JS (ES6+)** — DOM manipulation, localStorage API
 
 ---
 
@@ -76,6 +75,14 @@ Data persists across browser refreshes and sessions automatically.
 
 ---
 
-## Browser Support
+## 🚀 Live Demo
 
-Works in all modern browsers: Chrome, Firefox, Safari, Edge (ES6+ required).
+🔗 Live Website:
+https://karthik19-ch.github.io/Portfolio_Website/
+
+---
+
+## 📂 GitHub Repository
+
+🔗 Source Code:
+https://github.com/karthik19-ch/portfolio-website
