@@ -46,25 +46,6 @@ todo-app/
 
 ---
 
-## Local Storage
-
-All tasks are saved under the key `taskr_tasks` in `localStorage` as a JSON array:
-
-```json
-[
-  {
-    "id": 1716390000000,
-    "text": "Ship the feature",
-    "done": false,
-    "priority": "high",
-    "createdAt": "2025-05-11T10:00:00.000Z"
-  }
-]
-```
-
-Data persists across browser refreshes and sessions automatically.
-
----
 
 ## Design Aesthetic
 
@@ -78,11 +59,11 @@ Data persists across browser refreshes and sessions automatically.
 ## 🚀 Live Demo
 
 🔗 Live Website:
-https://karthik19-ch.github.io/Portfolio_Website/
+https://karthik19-ch.github.io/To-Do-List-App/
 
 ---
 
 ## 📂 GitHub Repository
 
 🔗 Source Code:
-https://github.com/karthik19-ch/portfolio-website
+https://github.com/karthik19-ch/To-Do-List-App
